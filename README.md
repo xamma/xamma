@@ -11,7 +11,7 @@ Some things about me:
 
 ![Cat](assets/cat-computer.gif)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamma&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamma&layout=compact&theme=dracula)
 
 <!--
 **xamma/xamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
