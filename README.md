@@ -12,7 +12,7 @@ Some things about me:
 ![Cat](assets/cat-computer.gif)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamma&layout=compact&theme=dracula)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xamma&hide=contribs,prs,issues&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=dracula&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xamma&hide=contribs,prs,issues&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=dracula&show_icons=true)
 
 <!--
 **xamma/xamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
