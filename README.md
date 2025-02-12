@@ -39,6 +39,7 @@
 ![ArgoCD](https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/fluxcd-%235468FF.svg?style=for-the-badge&logo=flux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 <!--
 **xamma/xamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
