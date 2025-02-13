@@ -14,16 +14,17 @@
 
 ## Useless stat area ✅
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamma&layout=compact&theme=dracula)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xamma&hide=contribs,prs,issues&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xamma&layout=compact&theme=noctis_minimus)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xamma&hide=contribs,prs,issues&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=noctis_minimus&show_icons=true)
 
 ## Check out my stuff 🦔
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=presetter&show_owner=true&theme=dracula)](https://github.com/xamma/presetter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=helm-release-action&show_owner=true&theme=dracula)](https://github.com/xamma/helm-release-action)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=Apikube&show_owner=true&theme=dracula)](https://github.com/xamma/Apikube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=cloudnative-python-apps&show_owner=true&theme=dracula)](https://github.com/xamma/cloudnative-python-apps)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=jupyhub-custom-culler&show_owner=true&theme=dracula)](https://github.com/xamma/jupyhub-custom-culler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=presetter&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/presetter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=helm-release-action&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/helm-release-action)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=Apikube&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/Apikube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=cloudnative-python-apps&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/cloudnative-python-apps)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=jupyhub-custom-culler&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/jupyhub-custom-culler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=microservice-demo&show_owner=true&theme=noctis_minimus)](https://github.com/xamma/microservice-demo)
 
 ***... and a lot more of my (maybe helpful) Repos are [publicly](https://github.com/xamma?tab=repositories) available :)***  
 
