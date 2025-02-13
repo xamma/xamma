@@ -24,7 +24,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=Apikube&show_owner=true&theme=dracula)](https://github.com/xamma/Apikube)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=cloudnative-python-apps&show_owner=true&theme=dracula)](https://github.com/xamma/cloudnative-python-apps)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=jupyhub-custom-culler&show_owner=true&theme=dracula)](https://github.com/xamma/jupyhub-custom-culler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=microservice-demo&show_owner=true&theme=dracula)](https://github.com/xamma/microservice-demo)
 
 ***... and a lot more of my (maybe helpful) Repos are [publicly](https://github.com/xamma?tab=repositories) available :)***  
 
