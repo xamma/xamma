@@ -8,7 +8,7 @@
 - 🖥: Just having some fun learning new stuff  
 - ❤️: Hedgehogs!  🦔
 - 🕹: Gaming.
-- 💻: [Learn more about me](https://xamma.github.io) 
+- 💻: [Learn more about me](https://www.xammaops.win) 
 - 📩: For business inquiries: [mail me](mailto:max@xammaops.win)
 
 
