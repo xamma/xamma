@@ -25,6 +25,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=cloudnative-python-apps&show_owner=true&theme=catppuccin_mocha)](https://github.com/xamma/cloudnative-python-apps)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=jupyhub-custom-culler&show_owner=true&theme=catppuccin_mocha)](https://github.com/xamma/jupyhub-custom-culler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=microservice-demo&show_owner=true&theme=catppuccin_mocha)](https://github.com/xamma/microservice-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=passphoria&show_owner=true&theme=catppuccin_mocha)](https://github.com/xamma/passphoria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xamma&repo=tabula&show_owner=true&theme=catppuccin_mocha)](https://github.com/xamma/tabula)
 
 ***... and a lot more of my (maybe helpful) Repos are [publicly](https://github.com/xamma?tab=repositories) available :)***  
 
