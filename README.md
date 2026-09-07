@@ -18,7 +18,7 @@
 ![Github Stats](https://github-readme-stats-omega-fawn-99.vercel.app/api?username=xamma&hide=contribs,prs,issues&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=noctis_minimus&show_icons=true)  
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xamma&count_private=true&area=true&days=30&theme=github-compact" width="100%">
+    <img src="https://github-readme-activity-graph-pearl-two.vercel.app/graph?username=xamma&count_private=true&area=true&days=30&theme=react-dark" width="100%">
 </p>
 
 ## Check out my stuff 🦔
